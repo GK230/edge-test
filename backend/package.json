@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "crypto explorer",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GK230/edge-test.git"
+  },
+  "author": "gk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GK230/edge-test/issues"
+  },
+  "homepage": "https://github.com/GK230/edge-test#readme"
+}
